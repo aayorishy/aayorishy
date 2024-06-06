@@ -31,6 +31,3 @@
 - 📧 Email [Follow Up Here](mailto:1139074074@qq.com)
 - ✈️ Telegram [@ayorishy](https://t.me/ayorishy)
 - 🐧 Kook [@ayorishy](https://kook.top/KX4cQx)
-
-## 📋 Magic Number
-![Visited By](https://count.getloli.com/get/@aayorishy?theme=rule34)
