@@ -26,7 +26,6 @@
 
 
 ## 📭 How to reach me
-<img align="right" src="https://github-readme-stats-mu-azure.vercel.app/api/top-langs?username=aayorishy&layout=compact" />
 
 - 📧 Email [Follow Up Here](mailto:1139074074@qq.com)
 - ✈️ Telegram [@ayorishy](https://t.me/ayorishy)
