@@ -9,7 +9,7 @@
 </div>
 <hr>
 <a href="https://ban.moe">
-  <img align="right" src="https://github-readme-stats-mu-azure.vercel.app/api?username=ayorishy&show_icons=true&theme=default" />
+  <img align="right" src="https://github-readme-stats-mu-azure.vercel.app/api?username=aayorishy&show_icons=true&theme=default" />
 </a>
 
 📚 Disheveled Chinese students trapped at home
@@ -26,11 +26,11 @@
 
 
 ## 📭 How to reach me
-<img align="right" src="https://github-readme-stats-mu-azure.vercel.app/api/top-langs?username=ayorishy&layout=compact" />
+<img align="right" src="https://github-readme-stats-mu-azure.vercel.app/api/top-langs?username=aayorishy&layout=compact" />
 
 - 📧 Email [Follow Up Here](mailto:1139074074@qq.com)
 - ✈️ Telegram [@ayorishy](https://t.me/ayorishy)
 - 🐧 Kook [@ayorishy](https://kook.top/KX4cQx)
 
 ## 📋 Magic Number
-![Visited By](https://count.getloli.com/get/@ayorishy?theme=rule34)
+![Visited By](https://count.getloli.com/get/@aayorishy?theme=rule34)
